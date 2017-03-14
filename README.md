@@ -27,7 +27,7 @@ before interacting with any strap API.  Once complete, strap will emit a
 
 ```javascript
 // Setup strap SDK, passing in the Read Token for the Project
-var StrapSDK = require('strap-sdk-node'),
+var StrapSDK = require('curanexus-sdk-node'),
     strap = new StrapSDK({ token: '{Read Token for Strap Project}' });
 
 // Tell Strap to get started
