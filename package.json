@@ -1,5 +1,5 @@
 {
-  "name": "strap-sdk-node",
+  "name": "curanexus-sdk-node",
   "version": "1.0.3",
   "description": "Easy API service communication with Strap",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:strap/strap-sdk.git"
+    "url": "git@github.com:strap/curanexus-sdk-node.git"
   },
   "author": {
     "name": "Brian Powell",
-    "email": "brian@straphq.com",
-    "url": "http://straphq.com/"
+    "email": "brian@curanexus.io",
+    "url": "http://curanexus.io/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/strap/strap-sdk/issues"
+    "url": "https://github.com/strap/curanexus-sdk-node/issues"
   },
-  "homepage": "https://github.com/strap/strap-sdk",
+  "homepage": "https://github.com/strap/curanexus-sdk-node",
   "dependencies": {
     "async": "^0.9.0",
     "debug": "^2.1.1",
