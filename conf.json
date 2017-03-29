@@ -1,6 +1,6 @@
 {
     "discovery": {
-        "url": "http://api.curanexus.io/discover",
+        "url": "https://api.curanexus.io/discover",
         "interval": 600e3
     }
 }
