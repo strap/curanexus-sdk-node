@@ -11,7 +11,7 @@ The Strap Server-Side SDK extracts the need for developers to know, manage, and 
 The a Project API discovery can be found here:
 
 HEADERS: "X-Auth-Token":
-GET [https://api.curanexus.io/discover]([https://api.curanexus.io/discover)
+GET [https://api.curanexus.co/discover]([https://api.curanexus.co/discover)
 
 ### Installation
 
