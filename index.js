@@ -1,9 +1,9 @@
 /**
  * index.js
- * Entry point into strap
+ * Entry point into curaNEXUS
  *
- * (C) Strap LLC 2015
+ * (C) curaNEXUS LLC 2015
  */
 
-// Expose strap
-module.exports = require('./lib/strap');
+// Expose curanexus
+module.exports = require('./lib/curanexus');
